@@ -1,9 +1,9 @@
 
-// Update the workspaceLookup
+// Update the workspace lookup to your teamID
 // slack url: https://randomteam.slack.com/archives/R123ABCXYZ/p9876543210123456
 
 const workspaceLookup = {
-    'daringway': 'TK9999XXX'
+    'randomteam': 'TK9999XXX'
 };
 
 try {
