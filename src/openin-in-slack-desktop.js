@@ -3,7 +3,7 @@
 // slack url: https://randomteam.slack.com/archives/R123ABCXYZ/p9876543210123456
 
 const workspaceLookup = {
-    'randomteam': 'TK9999XXX'
+    'cymaspace': 'T02H78D8G/C02H78D8Y'
 };
 
 try {
